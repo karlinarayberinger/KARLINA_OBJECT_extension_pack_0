@@ -19,3 +19,7 @@ karbytes initially planned on uploading delayed_release_note_0.txt to a private 
 Later on, karbytes decided to upload this note to karbytes initially planned on uploading delayed_release_note_0.txt to a private GitHub repository and augmenting that file until karbytes decided it was ready to copy over into a public GitHub repository which is listed in the web page named KARBYTES_CODE_CONTINUES in the website named Karbytes For Life Blog dot WordPress dot Com and then save the resulting public GitHub web page to the WayBack Machine (which may or may not be updated by karbytes at a later date).
 
 This file is the first file to be included in the first public GitHub repository which is listed in the web page named KARBYTES_CODE_CONTINUES in the website named Karbytes For Life Blog dot WordPress dot Com.
+
+* * *
+
+At approximately 10:25PM karbytes decided to augment this file with this line of text which includes the following text: karbytes decided to avoid going to Kathy Ray's house and that karbytes will do most of its laundry and showering at its current legal address (and karbytes' current legal address is Art Beringer's house). karbytes has a room at that house with two backup laptop computers, an acoustic guitar, extra clothes, and other gear.
