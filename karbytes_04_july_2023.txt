@@ -1,5 +1,5 @@
 /**
- * file: delayed_release_note_0.txt
+ * file: karbytes_04_july_2023.txt
  * type: plain-text
  * date: 04_JULY_2023
  * author: karbytes
@@ -23,3 +23,7 @@ This file is the first file to be included in the first public GitHub repository
 * * *
 
 At approximately 10:25PM karbytes decided to augment this file with this line of text which includes the following text: karbytes decided to avoid going to Kathy Ray's house and that karbytes will do most of its laundry and showering at its current legal address (and karbytes' current legal address is Art Beringer's house). karbytes has a room at that house with two backup laptop computers, an acoustic guitar, extra clothes, and other gear.
+
+* * *
+
+At approximately 11:27PM this line of text was added to this file which includes the following text: karbytes changed the name of this file from delayed_release_note_0.txt to karbytes_04_july_2023.txt (and karbytes intends to not update this note after 04_JULY_2023). At the time this line of text was added to this file, karbytes was sitting on the East Dublin BART platform waiting for the BART train to take karbytes back to Castro Valley so that karbytes can get a break from the urban noise, air pollution, and crowds and so that karbytes can camp in the region northeast of Lake Chabot (where karbytes can enjoy a more naturalistic, unpolluted, and spacious place to think and to relax).
