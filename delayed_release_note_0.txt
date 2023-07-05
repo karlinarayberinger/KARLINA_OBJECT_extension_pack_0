@@ -1,0 +1,21 @@
+/**
+ * file: delayed_release_note_0.txt
+ * type: plain-text
+ * date: 04_JULY_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+On 04_JULY_2023 at approximately 8:38PM, karbytes created delayed_release_note_0.txt while camping in its hiding place in Dublin, California.
+
+Appromximately ten minutes ago, karbytes canceled its Amazon dot Com order for a bicycle because karbytes was afraid that the bike would not include all the parts needed to assemble a safe and functional bike and because karbytes did not want to have to walk or drive to Art Beringer's house and to either assemble the bike there or have to walk or drive off with the pre-assembled bike to a place to set up that bike because such an ordeal sounds stressful. What karbytes intends to do instead is as follows:
+
+Order a bicycle to pick up from a store which is ready to ride upon pickup. So far karbytes is considering ordering a bicycle to pick up from the Cyclepath store in Hayward or the Walmart store in Dublin.
+
+karbytes intends to only take showers and to pick up mail and other belongings from Art Beringer's house as minimally as necessary. What karbytes is planning on doing is doing laundry at either the coin laundry mat near the Castro Valley BART station or else at Kathy Ray's house. karbytes does not want to reinstate its 24 Hour Fitness gym membership again merely to take a shower because karbytes had an overall unpleasant experience doing so. karbytes thinks that showering and doing laundry at Kathy Ray's house will be the cheapest and the least stresful way for karbytes to stay clean while karbytes is too poor to rent its own apartment. karbytes does not enjoy spending time in the neighborhood near Art Beringer's house.
+
+karbytes initially planned on uploading delayed_release_note_0.txt to a private GitHub repository and augmenting that file until karbytes decided it was ready to copy over into a public GitHub repository which is listed in the web page named KARBYTES_CODE_CONTINUES in the website named Karbytes For Life Blog dot WordPress dot Com. 
+
+Later on, karbytes decided to upload this note to karbytes initially planned on uploading delayed_release_note_0.txt to a private GitHub repository and augmenting that file until karbytes decided it was ready to copy over into a public GitHub repository which is listed in the web page named KARBYTES_CODE_CONTINUES in the website named Karbytes For Life Blog dot WordPress dot Com and then save the resulting public GitHub web page to the WayBack Machine (which may or may not be updated by karbytes at a later date).
+
+This file is the first file to be included in the first public GitHub repository which is listed in the web page named KARBYTES_CODE_CONTINUES in the website named Karbytes For Life Blog dot WordPress dot Com.
