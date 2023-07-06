@@ -1,0 +1,1 @@
+Note that for large image files, the aforementioned "raw" file link format might not lead to a web page displaying only that image. To view WayBack Machine saves of large image files, look up that image's "normal" GitHub address using the format defined in the preformatted text box below.
