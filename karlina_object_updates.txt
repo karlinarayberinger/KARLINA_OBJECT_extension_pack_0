@@ -54,5 +54,5 @@ On 10_JULY_2023 at approximately 2:13PM Pacific Standard Time, karbytes updated 
 
 On 10_JULY_2023 at approximately 2:54PM Pacific Standard Time, karbytes updated the web page named TRIANGLE_GRAPHING in the website named Karlina Object dot WordPress dot Com.
 
-On 10_JULY_2023 at approximately 8:53PM Pacific Standard Time, karbytes created a release of the GitHub repository named KARLINA_OBJECT_summer_2023_starter_pack and then archived that repository.
+On 10_JULY_2023 at approximately 8:53PM Pacific Standard Time, karbytes created a release of the GitHub repository named KARLINA_OBJECT_summer_2023_starter_pack and then set that repository to read only.
 
