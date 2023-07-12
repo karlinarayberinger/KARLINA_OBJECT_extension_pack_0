@@ -32,7 +32,7 @@ Suppose I am hired by some company which pays me to write software and I have an
 
 If a robot could do all the tasks which I am paid to do at some job and that robot completes those tasks faster and more reliiably (on average) than I do, why should I not be fired from the hiring company in order to save that company money?
 
-To answer the most recent question I asked, I would say, "Not necessarily because I might be useful as a human quality insurance agent who monitors the robot's work output for safety and to ensure that specific standards are met which is reassuring to humans in that company and who are clients of that company who prefer some degree of human involvement in such work."
+To answer the most recent question I asked, I would say, "Not necessarily because I might be useful as a human quality assurance agent who monitors the robot's work output for safety and to ensure that specific standards are met which is reassuring to humans in that company and who are clients of that company who prefer some degree of human involvement in such work."
 
 I would rather not bother answering the question in the second paragraph of this section of this note before I answer the questions in the first paragraph of this note.
 
