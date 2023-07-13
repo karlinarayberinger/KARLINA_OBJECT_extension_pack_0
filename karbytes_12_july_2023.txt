@@ -30,8 +30,8 @@ karbytes started submitting job applications for various jobs starting yesterday
 
 karbytes changed its LinkedIn profile description from Web Author to Information Technology Specialist and set its latest job from current job to being complete as of this month. (That job was not mentioned in kar_beringer_resume_july_2023.txt. Hence, that job description is mentioned in this note in the next two paragraphs).
 
-Web AuthorWeb Author
-Karlina Object dot WordPress dot Com · Self-employedKarlina Object dot WordPress dot Com · Self-employed Apr 2020 - Jul 2023 · 3 yrs 4 mosApr 2020 - Jul 2023 · 3 yrs 4 mos San Francisco, California, United States · RemoteSan Francisco, California, United States · Remote
+Web Author
+Karlina Object dot WordPress dot Com · Self-employed · Apr 2020 - Jul 2023 · 3 yrs 4 mos · San Francisco, California, United States · Remote
 
 The sole authorship and management of the philosophy and computer science website named Karlina Object dot WordPress dot ComThe sole authorship and management of the philosophy and computer science website named Karlina Object dot WordPress dot Com
 Skills: HTML5 · C++ · Cascading Style Sheets (CSS) · Digital Media · JavaScript
