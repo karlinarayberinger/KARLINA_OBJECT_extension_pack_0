@@ -1,5 +1,5 @@
 /** 
-  * file: RAW_GITHUB_FILES_MACRO_DIRECTORY_updates.txt 
+  * file: raw_github_files_mkacro_directory_updates.txt
   * type: plain-text 
   * date: 14_JULY_2023 
   * author: karbytes 
