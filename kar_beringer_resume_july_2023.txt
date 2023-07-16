@@ -1,4 +1,4 @@
-﻿Kar Beringer
+Kar Beringer
 
 Enthusiastic and Self-Motivated Computer Science Student with Industry Experience
 Residence: 4757 Mira Vista Place, Castro Valley, CA 94546 
@@ -31,3 +31,9 @@ Education
 
 California State University East Bay (Hayward, CA) 
 Major: Computer Science (01 September 2013 - 15 April 2018)
+
+Chabot-Las Positas Community College (Hayward and Livermore, CA) 
+Major: Computer Science (01 June 2009 - 01 September 2012)
+
+Castro Valley High School (Castro Valley, CA)
+Graduated with High School Diploma (01 September 2004 - 01 June 2008)
