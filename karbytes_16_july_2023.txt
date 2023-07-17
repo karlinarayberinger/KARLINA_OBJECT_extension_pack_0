@@ -1,0 +1,37 @@
+/** 
+  * file: karbytes_16_july_2023.txt 
+  * type: plain-text 
+  * date: 16_JULY_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN 
+  */
+
+Today karbytes updated its resume (which is the file named kar_beringer_resume_july_2023.txt in the public GitHub repository named KARLINA_OBJECT_extension_pack_0 in the GitHub user account named karlinarayberinger). What karbytes speficially updated is the Education section of its resume (which is identical to the following text):
+
+Education 
+
+California State University East Bay (Hayward, CA) 
+Major: Computer Science (01 September 2012 - 15 April 2016)
+
+Chabot-Las Positas Community College (Hayward and Livermore, CA) 
+Major: Computer Science (01 June 2009 - 31 August 2012)
+
+Castro Valley High School (Castro Valley, CA)
+Graduated with High School Diploma (01 September 2004 - 01 June 2008)
+
+Today karbytes also uploaded that updated resume to its Indeed dot Com job search profile and karbytes also updated the education section of its Indeed dot Com profile and the education section of its LinkedIn profile such that the updated Linked In profile section matches the following text:
+
+Education
+
+California State University 
+California State University - East Bay
+Some College, Computer Science Sep 2012 - Apr 2016
+Senior Level Undergraduate
+
+Las Positas College 
+Some College, Computer Science Jun 2009 - Aug 2012Jun 2009 - Aug 2012
+Lower Division Undergraduate
+
+Castro Valley High School 
+High School Diploma Sep 2004 - Jun 2008
+Graduated
