@@ -92,3 +92,19 @@ You could also use, you know, a freaking rake, like the pioneers did. (Or learn 
 One might wonder why we’ve chosen to make our homes in places that cannot be maintained without annoying each other so flagrantly. Perhaps this goes to the troubled heart of the suburban promise: These are environments conceived as peaceful respites from human disorder, places predicated on the assumption that other people are fundamentally irritants. And when we move there, we discover just how true that can be.
 
 *CORRECTION: An earlier version of this piece incorrectly identified this city as Pasadena.
+
+* * *
+
+I decided to share links to the following YouTube videos on my Twitter and Minds pages:
+
+video_0_URL: https://youtu.be/2v7LBABwZKA
+video_0_title: Karl Friston: The "Meta" Free Energy Principle [PART 1!]
+video_0_source: Theories of Everything with Curt Jaimungal
+
+video_1_URL: https://youtu.be/5pOpcCT6AmY
+video_1_title: Multiverses, Hubble Tension, Dark Energy | Dick Bond 
+video_1_source: Theories of Everything with Curt Jaimungal
+
+video_2_URL: https://youtu.be/CmieNQH7Q4w
+video_2_title:  Donald Hoffman: The Nature of Consciousness [Technical] 
+video_2_source: Theories of Everything with Curt Jaimungal
