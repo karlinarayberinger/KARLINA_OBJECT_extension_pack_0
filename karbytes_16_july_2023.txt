@@ -55,3 +55,40 @@ In "real life", I think that there is a disturbingly high prevalence of people (
 The world I woke up to this morning sort of looked like it was on a different planet in some creepy utopia where the people looked like generic robots by the way they moved without deviating from their stereotypical mechanizations (and the way there were so many rich, fit looking heterosexual couples with exactly one dog a piece like there were copy pasted with slight alterations) with reddish cirrus clouds covering large portions of the otherwise faint blue sky and large sprawling green lawns and smooth paved pathways near and through the park which was opened in September 2022 named Don Biddle community park. I don't mean to insult anyone. I'm merely pointing out what I observed and what I remember thinking and feeling at the time. I felt like an intruder hiding in the grass who people might have seen and knew was there (because I think people know about me and have an idea of what my habits and motivations are) and people seem to know that I am relatively harmless; just an alien doing its little field research projects passing through and collecting goodies along the way.
 
 As I wrote this note, a little ladybug landed on my laptop and then it crawled onto my hand. I let the ladybug crawl off onto my water bottle. There are lots of little black ants traveling by but thankfully not very many have been traveling on me. Last night I remember seeing and hearing a lot of crickets. 
+
+* * *
+
+I decided to share an article which appeared in my Mozilla Firefox Pocket news feed whose URL is as follows on my Twitter and Minds pages:
+
+https://www.bloomberg.com/news/articles/2016-11-03/the-case-against-leaf-blowers
+
+When I tried saving URL to the WayBack Machine, the resulted web page capture did not display the full text of that article. Hence, I decided to copy and paste the text of that article into this plain-text note as follows:
+
+The Devil's Hair Dryer
+
+Hell is other people, with leaf blowers.
+
+By David Dudley
+November 3, 2016 at 8:00 AM EDT
+
+A bunch of neighbors were sitting around the other night, talking yard work, and the conversation returned to a frequent target: a certain ex-neighbor, now long gone, who was unduly fond of his leaf blower. This is a familiar tale, how he tormented the block every autumn weekend chasing leaves around his small yard with his shrieking machine, leaving behind the lingering stench of gasoline fumes and resentment. I never met this fellow—he moved out before I moved in—but his legacy is secure: He is The Asshole With the Leaf Blower.
+
+Perhaps that’s redundant. The tragedy of the leaf blower is that it makes assholes of us all, users and neighbors alike. The aggressively un-civil nature of these devices is the stuff of legend, especially here at Atlantic Media, where The Atlantic’s esteemed national correspondent, James Fallows, has led an epic campaign against the Leaf Blower Menace. Those who want to explore all the moral and environmental arguments should consult his deep body of advocacy first. But the short version goes like this:
+
+The crude little two-stroke engines used by most commercial backpack-style blowers are pollution bombs. “Simplest benchmark: running a leafblower for 30 minutes creates more emissions than driving a F-150 pickup truck 3800 miles,” Fallows writes. “About one-third of the gasoline that goes into this sort of engine is spewed out, unburned, in an aerosol mixed with oil in the exhaust.” 
+
+Those emissions—plus all the other fine-particulate crap that the blowers kick up—constitute a public health hazard for anyone in the vicinity, but especially for the poor bastard running the thing. In most cities and suburbs, those most afflicted are low-wage employees of landscaping companies, not residents or homeowners.
+
+SWEET JESUS THE NOISE GAAH MAKE IT STOP. A gas blower at full cry can exceed a 100 decibels for the operator (OSHA requires hearing protections at 85), as these Sacramento blower foes explain, and it carries for hundreds of feet in every direction, irritating all who dwell therein.
+
+Adrian Higgins, the Washington Post’s gardening columnist, explored why this noise is so noisome in a recent thoughtful appraisal of the hated practice. “There is a weird human phenomenon at work here: Sound is far less irritating to its creator than to its recipient,” he writes. He cites the work of Erica Walker, a doctoral candidate at the Harvard T.H. Chan School of Public Health who undertook a survey of more than 1,000 Boston-area residents and made hundreds of ambient sound readings to come up with her comprehensive 2016 Greater Boston Noise Report. Leaf blowers emerged as prime offenders in this document, particularly in the area’s outlying suburbs.
+
+Other people who tend to complain about leaf blowers live next to (or attend) schools and universities, which doesn’t bode well for the quality of the learning going on in there. “Anecdotally, there are many teachers who have written to me discussing how campus lawn and garden maintenance activities disrupt their classroom instruction,” Walker tells me via email. “Some have had to stop class because students can’t hear their lecture.”
+
+Noise pollution is particularly harmful for children, as decades of public health studies have demonstrated, and most efforts to silence the din of gas-powered blowers have focused on their auditory toll. Campaigns to forbid leaf blowers have been successfully waged from Long Island to South Pasadena*, many led by a national nonprofit, Quiet Communities, which has a mission to “promote clean, sustainable, and quiet outdoor maintenance practices.” One progressive solution proffered by commercial landscapers with eco-minded clients: high-tech battery-powered blowers like this bad boy, which costs as much as a (crappy) used car and runs for an hour on its lithium battery, but makes a bit less noise and a lot less smog.
+
+You could also use, you know, a freaking rake, like the pioneers did. (Or learn to mulch.) But let’s be honest: We as Americans have set certain landscaping expectations for our office parks, our median strips, and our suburban yards, and it involves blowing. Ours is a nation too vast to be groomed by hand tools. So we must learn to co-exist with these man-machine hybrids, the Blower Guys, as they roam the grasslands, blasting organic debris before them with their mighty nozzles. (A little-discussed complication to the arguments of anti-blower partisans: Like ripping an awesome burnout or firing a machine gun at a roadside gun range in Las Vegas, wielding a pro-grade leaf blower can be a wasteful-but-satisfying projection of power. It’s akin to being some kind of ancient wind deity.)
+
+One might wonder why we’ve chosen to make our homes in places that cannot be maintained without annoying each other so flagrantly. Perhaps this goes to the troubled heart of the suburban promise: These are environments conceived as peaceful respites from human disorder, places predicated on the assumption that other people are fundamentally irritants. And when we move there, we discover just how true that can be.
+
+*CORRECTION: An earlier version of this piece incorrectly identified this city as Pasadena.
