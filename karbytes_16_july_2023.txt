@@ -39,3 +39,5 @@ Graduated
 * * *
 
 Today karbytes uploaded its current default profile picture to GitHub (which is the file named kar_beringer_profile_picture_26_may_2023.jpeg in the public GitHub repository named KARLINA_OBJECT_extension_pack_0 in the GitHub user account named karlinarayberinger). That picture is karbytes' profile picture on its LinkedIn dot Com profile and on its Dice dot com profile.
+
+karbytes updated its Dice profile such that its desired job role was changed from data entry clerk to quality assurance tester with a preferred hourly rate of $20 for Full-time and Contract-W2.
