@@ -1,4 +1,10 @@
-t
+/** 
+  * file: karbytes_17_july_2023.txt 
+  * type: plain-text 
+  * date: 17_JULY_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN 
+  */
 
 Today I remembered a sound effect from an analog sound recording whose medium was an iron filament magnetic tape. 
 
