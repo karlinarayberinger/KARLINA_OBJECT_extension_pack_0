@@ -46,4 +46,4 @@ Quantum entanglement of ions inside of quantum computer hardware can be set up s
 
 * * *
 
-The quote in the previous section of this note (i.e. the plain-text file named karbytes_18_july_2023.txt in the public GitHub repository named https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0) was published as a tweet on the Twitter account whose username is karbytes and as a post on the Minds account whose username is karbytes today.
+The quote in the previous section of this note (i.e. the plain-text file named karbytes_18_july_2023.txt in the public GitHub repository named KARLINA_OBJECT_extension_pack_0) was published as a tweet on the Twitter account whose username is karbytes and as a post on the Minds account whose username is karbytes today.
