@@ -24,4 +24,4 @@ A yellowish crescent moon shines and is positioned above the glowing city lights
 
 * * *
 
-Earlier today I added a new image post to my Instagram and to this GitHub reposotory named karbytes_20_july_2023.txt. It is one of my favorite selfies of karbytes so far. I plan on taking another epic selfie of karbytes closer to Halloween 2023 with some kind of costume on.
+Earlier today I added a new image post to my Instagram and image upload to this GitHub reposotory using the image file named karbytes_20_july_2023.txt. It is one of my favorite selfies of karbytes so far. I plan on taking another epic selfie of karbytes closer to Halloween 2023 with some kind of costume on.
