@@ -1,0 +1,13 @@
+/**
+* file: karbytes_22_july_2023.txt
+* type: plain-text
+* date: 22_JULY_2023
+* author: karbytes
+* license: PUBLIC_DOMAIN
+*/
+
+Recently I watched a video about how each of the two hemispheres of the human brain has its own separate personhood (which is a conclusion that is partially based on experiments involved in severing those two hemispheres surgically). 
+
+I see how my left brain and right brain are essentially always at war with each other over domination of my whole body. I think that I should favor one side more than the other in terms of long-term agenda: the side which is primarily responsible for logical thinking (i.e. the side that performs the most conscious quantitative reasoning such as computing the integral of some continuous function across a finite independent variable range).
+
+I won't kill the other side. I'll just let the favored side enslave it.
