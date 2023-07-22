@@ -1,0 +1,35 @@
+/**
+* file: karbytes_21_july_2023.txt
+* type: plain-text
+* date: 21_JULY_2023
+* author: karbytes
+* license: PUBLIC_DOMAIN
+*/
+
+Today karbytes updated the web page named TRIANGLE_GRAPHING of the website named Karlina Object dot WordPress dot Com at approximately 5:30PM Pacific Standard Time on 21_JULY_2023.
+
+As part of updating TRIANGLE_GRAPHING, karbytes modified the file and web page displayed copied contents of that file named triangle_graphing.js which is linked to that web page and uploaded that JavaScript file to this GitHub repository.
+
+Also, as part of updating TRIANGLE_GRAPHING, karbytes uploaded new screen capture images of the application user interface substantiated by the three code files whose links are highlighted black with green text displayed on that web page named TRIANGLE_GRAPHING. Those image files have also been uploaded to this GitHub repository.
+
+(This GitHub repository is located at the following web page address: https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/ )
+
+karbytes also uploaded (to this GitHub repository) the following screen capture images of that software application while karbytes was debugging that application's only JavaScript file:
+
+karbytes_using_triangle_graphing_21_july_2023_part_0.png
+
+karbytes_using_triangle_graphing_21_july_2023_part_1.png
+
+karbytes_using_triangle_graphing_21_july_2023_part_2.png
+
+Earlier today karbytes uploaded the following image to this GitHub repository and shared that image on karbytes' Instagram profile:
+
+karbytes_using_sound_track_looper_21_july_2023.jpg
+
+Earlier today karbytes published a tweet on karbytes' Twitter profile and then deleted that tweet once that tweet was no longer relevant (i.e. once the WayBack Machine stopped generated an error in response to karbytes submitting a web page URL to save in the WayBack Machine database). That tweet is depicted by the screen capture image which was uploaded to this GitHub repository:
+
+twitter_karbytes_21_july_2023_part_0.png
+
+Finally, earlier today, karbytes uploaded a screen capture of a Twitter conversation karbytes upvoted (i.e. clicked the like button for) to this GitHub repository:
+
+twitter_karbytes_21_july_2023_part_1.png
