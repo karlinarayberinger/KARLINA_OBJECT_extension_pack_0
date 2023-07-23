@@ -1,0 +1,9 @@
+/**
+* file: karbytes_23_july_2023.txt
+* type: plain-text
+* date: 23_JULY_2023
+* author: karbytes
+* license: PUBLIC_DOMAIN
+*/
+
+My tentative plan (until I finish updating the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com with read-only GitHub repository micro_directory web pages) is to take BART and bike to Dublin during the day to hang out in shady parking garages and be close to public Wi-Fi and to go back to Castro Valley to sleep at night.
