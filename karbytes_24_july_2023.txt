@@ -81,3 +81,11 @@ karbytes: "No. I have seen firsthand how much people seem to intentionally provo
 R: "If you are not interested in having biological offspring, people will treat you like your life matters less than that of someone who has procured biological children."
 
 karbytes: "I understand and I accept that. I am doing my best to live as well as I can within such circumstances. Even though I am reprimanded for being selfish, I do my best to be fair to myself and others and to avoid unnecessary conflicts and other things which I think are a waste of my resources. I do not think my happiness has to come at the expense of other people's happiness but I do prefer to eliminate people who I think are seriously detrimental to my happiness."
+
+R: "Do you have plans to harm or to kill anyone?"
+
+karbytes: "No. I do not think it is morally correct to intentionally try to hurt other people for revenge (but I reserve the right to hurt people only as a means of preventing further violence but never as revenge)."
+
+R: "Normal people justify revenge. Why don't you?"
+
+karbytes: "I find violence and revenge driven behavior to be depressing."
