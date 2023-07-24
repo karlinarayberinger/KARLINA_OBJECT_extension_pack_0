@@ -89,3 +89,7 @@ karbytes: "No. I do not think it is morally correct to intentionally try to hurt
 R: "Normal people justify revenge. Why don't you?"
 
 karbytes: "I find violence and revenge driven behavior to be depressing."
+
+R: "No woman would go out with a man who would not beat the shit out of someone who hurts her."
+
+karbytes: "I see. And I am not interested in going out with a woman."
