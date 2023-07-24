@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 23_JULY_2023 
+  * date: 24_JULY_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
@@ -199,3 +199,5 @@ On 23_JULY_2023 at approximately 5:26PM Pacific Standard Time, karbytes updated 
 On 23_JULY_2023 at approximately 5:26PM Pacific Standard Time, karbytes updated the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
 On 23_JULY_2023 at approximately 5:26PM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+On 24_JULY_2023 at approximately 2:02AM Pacific Standard Time, karbytes added the web page named karbytes_23AndMe_Ancestry_Data to the website named Karbytes For Life Blog dot WordPress dot Com (and rearranged the ordering of the web pages which are displayed on the home page of that website).
