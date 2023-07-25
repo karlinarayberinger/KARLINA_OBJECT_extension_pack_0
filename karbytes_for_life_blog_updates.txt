@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 24_JULY_2023 
+  * date: 25_JULY_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
@@ -207,3 +207,5 @@ On 24_JULY_2023 at approximately 2:57PM Pacific Standard Time, karbytes updated 
 On 24_JULY_2023 at approximately 2:57PM Pacific Standard Time, karbytes updated the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
 On 24_JULY_2023 at approximately 2:57PM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+On 25_JULY_2023 at approximately 1:20AM Pacific Standard Time, karbytes added the web page named A_CONVERSATION_BETWEEN_A_AND_B to the website named Karbytes For Life Blog dot WordPress dot Com (and karbytes published a link to that web page on its Twitter, Minds, LinkedIn, and Patreon pages).
