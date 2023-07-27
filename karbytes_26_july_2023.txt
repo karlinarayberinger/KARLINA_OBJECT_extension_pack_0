@@ -1,0 +1,21 @@
+/**
+* file: karbytes_26_july_2023.txt
+* type: plain-text
+* date: 26_JULY_2023
+* author: karbytes
+* license: PUBLIC_DOMAIN
+*/
+
+At approximately 6:20PM Pacific Standard Time (on 26_JULY_2023), karbytes came up with the following ideas (expressed as a dialog between fictional persons named F and G):
+
+F: "After robots replace human employees at low wage jobs and all humans are entitled to get a free college education, will there be enough job openings available for humans?"
+
+G: "Yes because new jobs will be created. Quality assurance jobs will be abundant because there can seemingly never be too many humans reviewing a product or service."
+
+F: "Are you suggesting most humans will only be paid a liveable wage to do 'busy work' so that those people are not 'too free' to use their time as they please?"
+
+G: "Yes. People will essentially be forced to work or to be dependent on people who work in order to enjoy a liveable income. If less than 30% of humans had jobs while the other 70% either lived on tax funded welfare or else as dependents on someone with an income, then 'too many' humans would be loitering in public or atrophying on the couch in private. Forcing people to work most days of the week prevents them from falling into such depression-inducing idleness."
+
+F: "You don't think people can manage to keep themselves productively busy without a job?"
+
+G: "I think some people can but not most (though perhaps I'll be proven wrong). I think it's safer for everyone person's benefit to assume that most people will need externally imposed rather than just internally imposed limitations in order to stay productively busy instead and to avoid falling into dysfunctional habits."
