@@ -1,0 +1,15 @@
+/**
+* file: karbytes_27_july_2023.txt
+* type: plain-text
+* date: 27_JULY_2023
+* author: karbytes
+* license: PUBLIC_DOMAIN
+*/
+
+I noticed that my AT&T mobile data is quickly being depleted by the updates I have been making to the section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com (and the most data-intensive aspects of that project are downloading image files which are too large to be displayed at raw image files on GitHub and then uploading those images to an image compression website to shrink those files, download those shrunken files, and to upload those shrunken files to the karbytes-created GitHub repository named RAW_GITHUB_FILES_MACRO_DIRECTORY). 
+
+(Today I also modified the web page named raw_github_files_directory_KARLINA_OBJECT_summer_2023_starter_pack of the section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com by adding links to updated raw GitHub files which are part of the TRIANGLE_GRAPHING web page of the website named Karlina Object dot WordPress dot Com and links to all web pages which are part of the website named Karlina Object dot WordPress dot Com (such that those links visibly display the entire uniform resource locator of their respective web pages and such that those links are listed in the reverse order in which they appear on the START_PAGE (i.e. home page) of the website named Karlina Object dot WordPress dot Com (i.e. such that a link to the web page named PUBLIC_DOMAIN is at the top of the list in that section while a link to the web page named KNOWLEDGE is at the bottom of that list))).
+
+My bicycle's front tire still has a leak in it but I have been getting a modicum of mileage out of riding it (but not to the extent that riding it is what I would consider to be adequately functional). Tomorrow I plan to take that bicycle in to a bicycle shop to get repaired. Meanwhile, in order to save data, I tentatively plan on puting my bicycle in the car I am borrowing and driving that car back to Castro Valley near my mom's house so that I can use the Wi-Fi in the backyard to continue making updates to the section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com. So far, I would say that I have completed approximately 33% of the total updates pertaining to that website section. After 100% of those updates are complete, I expect to make much smaller (in terms of data size and in terms of labor on my part) and much less frequent updates to that website section.
+
+The idea of what that website section is about is providing a (relatively) easy way for me to save multiple web pages at once pertaining to my personal websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com so that I can (relatively) quickly accumulate a (relatively) high number of WayBack Machine saves of each of those websites' constituent web pages (perhaps while listening to podcasts and vaping cannabis and enjoying some comfortable and peaceful sitting spot in nature or while waiting to clock into my work shift).
