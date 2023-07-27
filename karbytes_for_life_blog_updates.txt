@@ -200,9 +200,9 @@ On 23_JULY_2023 at approximately 5:26PM Pacific Standard Time, karbytes updated 
 
 On 23_JULY_2023 at approximately 5:26PM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
 
-On 24_JULY_2023 at approximately 2:02AM Pacific Standard Time, karbytes added the web page named karbytes_23AndMe_Ancestry_Data to the website named Karbytes For Life Blog dot WordPress dot Com (and rearranged the ordering of the web pages which are displayed on the home page of that website).
+On 24_JULY_2023 at approximately 2:02AM Pacific Standard Time, karbytes added (and apparently finalized) the web page named karbytes_23AndMe_Ancestry_Data to the website named Karbytes For Life Blog dot WordPress dot Com (and rearranged the ordering of the web pages which are displayed on the home page of that website).
 
-On 24_JULY_2023 at approximately 2:57PM Pacific Standard Time, karbytes updated the web page named raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_13 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+On 24_JULY_2023 at approximately 2:57PM Pacific Standard Time, karbytes created (and apparently finalized) the web page named raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_13 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
 On 24_JULY_2023 at approximately 2:57PM Pacific Standard Time, karbytes updated the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
@@ -210,13 +210,13 @@ On 24_JULY_2023 at approximately 2:57PM Pacific Standard Time, karbytes updated 
 
 On 25_JULY_2023 at approximately 1:20AM Pacific Standard Time, karbytes added the (unlisted) web page named A_CONVERSATION_BETWEEN_A_AND_B to the website named Karbytes For Life Blog dot WordPress dot Com (and karbytes published a link to that web page on its Twitter, Minds, LinkedIn, and Patreon pages). (The HTML source code file for that unlisted web page has been added to the GitHub repository which contains this note (and the name of that HTML source code file is unlisted_web_page_A_CONVERSATION_BETWEEN_A_AND_B.html)).
 
-On 25_JULY_2023 at approximately 3:24AM Pacific Standard Time, karbytes updated the web page named raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_14 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+On 25_JULY_2023 at approximately 3:24AM Pacific Standard Time, karbytes created (and apparently finalized) the web page named raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_14 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
 On 25_JULY_2023 at approximately 3:24AM Pacific Standard Time, karbytes updated the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
 On 25_JULY_2023 at approximately 3:24AM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
 
-On 26_JULY_2023 at approximately 1:25AM Pacific Standard Time, karbytes updated the web page named raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_15 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+On 26_JULY_2023 at approximately 1:25AM Pacific Standard Time, karbytes created (and apparently finalized) the web page named raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_15 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
 On 26_JULY_2023 at approximately 1:25AM Pacific Standard Time, karbytes updated the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
@@ -224,7 +224,7 @@ On 26_JULY_2023 at approximately 1:25AM Pacific Standard Time, karbytes updated 
 
 On 26_JULY_2023 at approximately 8:40PM Pacific Standard Time, karbytes added the (unlisted) web page named A_CONVERSATION_BETWEEN_F_AND_G to the website named Karbytes For Life Blog dot WordPress dot Com (and karbytes published a link to that web page on its Twitter, Minds, LinkedIn, and Patreon pages). (The HTML source code file for that unlisted web page has been added to the GitHub repository which contains this note (and the name of that HTML source code file is unlisted_web_page_A_CONVERSATION_BETWEEN_F_AND_G.html)).
 
-On 27_JULY_2023 at approximately 1:20AM Pacific Standard Time, karbytes updated the web page named raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+On 27_JULY_2023 at approximately 1:20AM Pacific Standard Time, karbytes created (and apparently finalized) the web page named raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
 On 27_JULY_2023 at approximately 1:20AM Pacific Standard Time, karbytes updated the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
