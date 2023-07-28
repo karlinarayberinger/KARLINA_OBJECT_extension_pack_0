@@ -1,0 +1,17 @@
+/** 
+  * file: karbytes_28_july_2023.txt 
+  * type: plain-text 
+  * date: 28_JULY_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
+
+orange_hyperlink_text_color.implies(static_function_input_value); // code to build digital artifacts
+
+green_hyperlink_text_color.implies(static_machine_code); // code to build virtual hardware for processing digital artifacts
+
+* * * 
+
+console.log(karbytes.bicycle_0.status(28_JULY_2023)); // okay (no issues detected)
+
+console.log(karbytes.purchase(bicycle_repair_service)); // approximately $30
