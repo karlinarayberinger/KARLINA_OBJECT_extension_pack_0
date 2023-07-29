@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 28_JULY_2023 
+  * date: 29_JULY_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
@@ -247,3 +247,7 @@ On 28_JULY_2023 at approximately 8:02PM Pacific Standard Time, karbytes updated 
 On 28_JULY_2023 at approximately 8:02PM Pacific Standard Time, karbytes updated the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
 On 28_JULY_2023 at approximately 8:02PM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+On 29_JULY_2023 at approximately 12:33AM Pacific Standard Time, karbytes updated the web page named raw_github_files_directory_MINDS_2020_SCREENSHOTS of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+On 29_JULY_2023 at approximately 12:33AM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
