@@ -1,0 +1,17 @@
+/** 
+  * file: karbytes_29_july_2023.txt 
+  * type: plain-text 
+  * date: 29_JULY_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
+
+let screenshot_0 = karbytes.screenshot(karbytes.tweet('I hypothesize that all events which are observed to ever occur have been observed to occur as a consequence of being subconsciously (or not so subconsciously) preferred by their observer through deterministic machinations generally and colloquially referred to as "self fulfilling prophecy". In other words, if X happens instead of Y at space-time coordinates i (according to some observer A), then A had more of a preference for X than A had a preference for Y when A was at i.', some_unique_natural_number_of_number_of_milliseconds_since_01_JANUARY_1970_at_00:00:00_Coordinated_Universal_Time)); // karbytes made a public social media post on Twitter dot Com at approximately 7:30PM Pacific Standard Time.
+
+let screenshot_1 = karbytes.screenshot(karbytes.minds(screenshot_0, some_unique_natural_number_of_number_of_milliseconds_since_01_JANUARY_1970_at_00:00:00_Coordinated_Universal_Time)); // karbytes made a public social media post on Minds dot Com at approximately 7:30PM Pacific Standard Time.
+
+* * *
+
+karbytes.screenshot_0.set_uniform_resource_locator_address('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_self_fulfilling_prophecy_hypothesis_29_july_2023.png'); 
+
+karbytes.screenshot_1.set_uniform_resource_locator_address('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/minds_karbytes_self_fulfilling_prophecy_tweet_screenshot_29_july_2023.png');
