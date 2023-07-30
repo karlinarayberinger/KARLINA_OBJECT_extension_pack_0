@@ -1,5 +1,5 @@
 /** 
-  * file: a_multiple-day_journal.txt
+  * file: a_multiple_day_journal.txt
   * type: plain-text 
   * date: 30_JULY_2023 
   * author: karbytes 
