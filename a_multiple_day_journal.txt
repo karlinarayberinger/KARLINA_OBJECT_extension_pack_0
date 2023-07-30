@@ -41,6 +41,7 @@ W: "Why doesn't karbytes have a job?"
 V: "karbytes is currently living entirely off allowance money from karbytes' parents while karbytes completes a web development project which is expected to be complete no later than 01_SEPTEMBER_2023. After that project is complete, karbytes tentatively plans to start searching for some kind of paid job with karbytes' goal being to maximize its free time and to maximize karbytes' income and to minimize karbytes' stress from violating karbytes' personal ethics (which largely emphasize environmental sustainability and not minimizing suffering universally)."
 
 W: "karbytes is a bum."
+
 V: "What do you mean by the term 'bum'?"
 
 W: "A bum is a person who leeches off other people's hard work and sacrifices in order for that person to get the benefits of working hard and making sacrifices without actually working hard and without making sacrifices."
