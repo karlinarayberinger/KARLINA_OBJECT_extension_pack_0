@@ -12,7 +12,44 @@ karbytes.tweet('https://singularityhub.com/2023/07/24/the-digital-future-may-rel
 
 karbytes.minds('https://singularityhub.com/2023/07/24/the-digital-future-may-rely-on-optical-switches-a-million-times-faster-than-todays-transistors/', x); // karbytes made a public social media post on Minds dot Com at approximately 2:00PM Pacific Standard Time on 30_JULY_2023.
 
+* * *
 
+V: "As many jobs as possible should be outsourced to robots."
+
+W: "Wouldn't that cause too many humans to lose their jobs?"
+
+V: "The term 'too many' is subjective rather than objective like 80% is (and yes I do think that approximately 80% of the human workforce should lose their (current) jobs to robots). The 20% which does not get replaced by robots is providing a service which sufficiently many humans desire and are willing to pay for. The 80% which does get replaced by robots should be given an adequate minimum monthly income (which is a mixture of cash deposited into the recipient's bank account and vouchers used excluding for purchasing basic essential services such as housing unit rental) paid for by the tax dollars which human employees pay no more than 30% of their paychecks towards and which robot employees pay 100% of their paychecks towards (since robots do not have to eat, sleep, excrete waste, occupy housing units, consume entertainment, pursue hobbies, or travel outside of work)."
+
+W: "That's a lot of people being forced to wait for free money to arrive while they are treated as obsolete as employees unless they update their employable skills. Also, those people would likely be very jealous of their working neighbors who can afford more expensive products and services in addition to being treated as more important and elite by humans in general. I think the robots should be prevented from taking the jobs of people are used to going to work at so-called lowly jobs. Those jobs might not be very intellectually demanding nor difficult nor even necessary for apes to perform, but such jobs give those apes a sense of pride and empowerment; a sense of being a valuable and necessary part of some larger whole."
+
+V: "You're right. Technology should serve what most humans want. Humans are creatures of habit. Maybe all able bodied humans should be denied free money and instead be forced to work at some job so that those humans are forced to be relevant to humans who would otherwise not care about the existence of."
+
+W: "Are you being facetious?"
+
+V: "No. I'm attempting to represent the position which the majority of humans seem to take: yours."
+
+W: "Are you insinuating that my position is dumb?"
+
+V: "No. I believe you are intelligent when it comes to protecting yourself from depression as a social creature with deeply ingrained habits and beliefs. I think most people would rather keep robots from taking their jobs so that those humans do not have to adjust to a radically new lifestyle (especially if their current lifestyle is following in the footsteps of the elders and peers in the tribe which raised them). Tribal cohesion is probably the most significant factor in why a human would not want its job to be outsourced to a robot."
+
+W: "Are you saying that single childless adults majoring in a STEM field (Science, Technology, Engineering, Mathematics) are more likely to benefit from unencumbered outsourcing of jobs to robots?"
+
+V: "Yes. Those people seem to have more options available in terms of how they are able to interpret available information and output something useful and novel because such people tend to be more logical than emotional, more cerebral than sensual, and more methodical than reflexive. Such people concentrate their resources towards solving problems in precisely documented systematic ways instead of by merely emulating whoever they were raised by or in close and frequent physical proximity to (instead of allocating those resources towards raising offspring and courting a mate and reenacting the stereotypes which are prescribed to them via mainstream culture)."
+
+W: "Why doesn't karbytes have a job?"
+
+V: "karbytes is currently living entirely off allowance money from karbytes' parents while karbytes completes a web development project which is expected to be complete no later than 01_SEPTEMBER_2023. After that project is complete, karbytes tentatively plans to start searching for some kind of paid job with karbytes' goal being to maximize its free time and to maximize karbytes' income and to minimize karbytes' stress from violating karbytes' personal ethics (which largely emphasize environmental sustainability and not minimizing suffering universally)."
+
+W: "karbytes is a bum."
+V: "What do you mean by the term 'bum'?"
+
+W: "A bum is a person who leeches off other people's hard work and sacrifices in order for that person to get the benefits of working hard and making sacrifices without actually working hard and without making sacrifices."
+
+V: "As a human who rarely drives a gasoline powered car and who almost never consumes any food which is not entirely plant-based instead of animal-derived, karbytes ecological impact is smaller than what is considered to be average amongst the human population karbytes is a member of. Also, karbytes is very self-motivated and single-mindedly focused on projects related to sharing open source software on the World Wide Web. Given that context, it could be argued that karbytes is not more of a bum than what is considered to be average for karbytes' population."
+
+W: "karbytes has to grow up and stop being such a picky eater and slow and stingy commuter. karbytes should give up veganisn in favor of being an omnivore so that karbytes does not need special dietary accommodations which karbytes peers are not likely to ask for. karbytes should get back to driving a normal gasoline powered car so that karbytes can get to work in less time with less effort and also be able to transport more cargo and passengers than just karbytes and what karbytes can carry on its back. In order to be retained at whatever company hires karbytes for a job, karbytes should be more willing to partake in mainstream entertainment."
+
+V: "It is not necessary for karbytes to make any of those changes in order to get hired at a job and to keep that job. As long as karbytes lives in the San Francisco Bay Area, many jobs are available which karbytes could commute to via bicycling and riding BART trains (and karbytes could drive some but not all days in order to keep up with karbytes' sustainability standards). The jobs karbytes is likely to apply for are not jobs which require much socializing outside of work because such jobs are for busy poor people. Therefore, karbytes need not change karbytes' dietary preferences nor informational and commodities consumer habits in general in order to become or to stay employed at a job."
 
 
 
