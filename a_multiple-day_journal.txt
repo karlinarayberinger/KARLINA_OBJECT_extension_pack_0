@@ -1,1 +1,16 @@
+/** 
+  * file: a_multiple-day_journal.txt
+  * type: plain-text 
+  * date: 30_JULY_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
+
+karbytes.tweet('https://singularityhub.com/2023/07/24/the-digital-future-may-rely-on-optical-switches-a-million-times-faster-than-todays-transistors/', some_unique_natural_number_of_number_of_milliseconds_since_01_JANUARY_1970_at_00:00:00_Coordinated_Universal_Time)); // karbytes made a public social media post on Twitter dot Com at approximately 2:00PM Pacific Standard Time on 30_JULY_2023.
+
+karbytes.minds('https://singularityhub.com/2023/07/24/the-digital-future-may-rely-on-optical-switches-a-million-times-faster-than-todays-transistors/', some_unique_natural_number_of_number_of_milliseconds_since_01_JANUARY_1970_at_00:00:00_Coordinated_Universal_Time)); // karbytes made a public social media post on Minds dot Com at approximately 2:00PM Pacific Standard Time on 30_JULY_2023.
+
+
+
+
 
