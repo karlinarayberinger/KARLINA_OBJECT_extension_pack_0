@@ -52,5 +52,16 @@ W: "karbytes has to grow up and stop being such a picky eater and slow and sting
 
 V: "It is not necessary for karbytes to make any of those changes in order to get hired at a job and to keep that job. As long as karbytes lives in the San Francisco Bay Area, many jobs are available which karbytes could commute to via bicycling and riding BART trains (and karbytes could drive some but not all days in order to keep up with karbytes' sustainability standards). The jobs karbytes is likely to apply for are not jobs which require much socializing outside of work because such jobs are for busy poor people. Therefore, karbytes need not change karbytes' dietary preferences nor informational and commodities consumer habits in general in order to become or to stay employed at a job."
 
+* * *
+
+let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
+
+karbytes.publish_twitter_post('https://karbytesforlifeblog.wordpress.com/a_conversation_between_v_and_w/', x); // karbytes made a public social media post on Twitter dot Com at approximately 6:00PM Pacific Standard Time on 30_JULY_2023.
+
+karbytes.publish_minds_post('https://karbytesforlifeblog.wordpress.com/a_conversation_between_v_and_w/', x); // karbytes made a public social media post on Minds dot Com at approximately 6:00PM Pacific Standard Time on 30_JULY_2023.
+
+karbytes.publish_linkedin_post('https://karbytesforlifeblog.wordpress.com/a_conversation_between_v_and_w/', x); // karbytes made a public social media post on LinkedIn dot Com at approximately 6:00PM Pacific Standard Time on 30_JULY_2023.
+
+karbytes.publish_patreon_post('https://karbytesforlifeblog.wordpress.com/a_conversation_between_v_and_w/', x); // karbytes made a public social media post on Patreon dot Com at approximately 6:00PM Pacific Standard Time on 30_JULY_2023.
 
 
