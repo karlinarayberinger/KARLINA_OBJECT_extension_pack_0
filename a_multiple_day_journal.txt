@@ -1,7 +1,7 @@
 /** 
   * file: a_multiple_day_journal.txt
   * type: plain-text 
-  * date: 30_JULY_2023 
+  * date: 31_JULY_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN
   */
@@ -81,3 +81,7 @@ V: "My idea is still the same idea regardless of what species of information pro
 W: "You're going to die alone with no one there to miss you once you're dead."
 
 V: "I hold the position that death may or may not be the termination of my continuity of consciousness and that, following my death (if I die), I may possibly be incarnated in a new body in some new space-time continuum. Until then, I am content to live alone and I am content to remain relatively anonymous and unknown to humans other than myself. I do not require the acknowledgement and appreciation of other humans in order for me to derive satisfaction in being alive because I have plenty to do which keeps me busy and feeling satisfied; like my time is generally spent well instead of squandered on activities which do not satisfy me."
+
+* * *
+
+At approximately 3:42PM Pacific Standard Time (on 30_JULY_2023), karbytes came up with the following ideas (expressed as a dialog between fictional persons named S and T):
