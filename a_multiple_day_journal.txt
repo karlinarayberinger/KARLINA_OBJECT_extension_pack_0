@@ -84,7 +84,7 @@ V: "I hold the position that death may or may not be the termination of my conti
 
 * * *
 
-At approximately 3:42PM Pacific Standard Time (on 30_JULY_2023), karbytes came up with the following ideas (expressed as a dialog between fictional persons named S and T):
+At approximately 3:42PM Pacific Standard Time (on 31_JULY_2023), karbytes came up with the following ideas (expressed as a dialog between fictional persons named S and T):
 
 S: "When does bread turn to consciousness?"
 
@@ -103,3 +103,15 @@ S: "Perhaps that brain-localized consciousness will expand into some relatively 
 T: "Perhaps that brain-localized consciousness will cease to exist forever (and it was the only unique instance of its class throughout the entire multiverse)."
 
 S: "If you (a) define the multiverse as being the set of all imaginable phenomena and (b) you define every imaginable phenomenon as being inevitable to physically occur (infinitely many times) throughout (infinitely) many universes (but not in each possible to imagine universe throughout the entire multiverse), then that brain-localized consciousness is both alive and dead simultaneously from the perspective of a sentient information processing agent which is cognizant of the entire multiverse."
+
+* * *
+
+let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
+
+karbytes.publish_twitter_post('https://karbytesforlifeblog.wordpress.com/a_conversation_between_s_and_t/', x); // karbytes made a public social media post on Twitter dot Com at approximately 4:20PM Pacific Standard Time on 31_JULY_2023.
+
+karbytes.publish_minds_post('https://karbytesforlifeblog.wordpress.com/a_conversation_between_s_and_t/', x); // karbytes made a public social media post on Minds dot Com at approximately 4:20PM Pacific Standard Time on 31_JULY_2023.
+
+karbytes.publish_linkedin_post('https://karbytesforlifeblog.wordpress.com/a_conversation_between_s_and_t/', x); // karbytes made a public social media post on LinkedIn dot Com at approximately 4:20PM Pacific Standard Time on 31_JULY_2023.
+
+karbytes.publish_patreon_post('https://karbytesforlifeblog.wordpress.com/a_conversation_between_s_and_t/', x); // karbytes made a public social media post on Patreon dot Com at approximately 4:20PM Pacific Standard Time on 31_JULY_2023.
