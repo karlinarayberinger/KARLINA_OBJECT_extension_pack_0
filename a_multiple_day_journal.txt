@@ -1,7 +1,7 @@
 /** 
   * file: a_multiple_day_journal.txt
   * type: plain-text 
-  * date: 01_AUGUST_2023 
+  * date: 02_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN
   */
@@ -129,3 +129,11 @@ Perhaps Elon Musk changed the Twitter logo from the turquoise silhouette of a sm
 * * *
 
 I do not feel I owe AJP money nor do I feel that AJP owes me money.
+
+* * *
+
+I condone any person attempting to (and actually succeeding at) commiting suicide for any reason and by any means other than injuring or killing some other person against that other person's will.
+
+What's keeping some people from  attempting to kill themselves is the intrinsic experience of one's own life being worthwhile to continue investing in the continuation of (due to goal oriented reasoning).
+
+If you feel that continuing to invest in your own survival is not sufficiently satisfying for you to call worthwhile, then I would say that you are on the precipice of committing suicide. Perhaps that is a way to prevent the biosphere from metastasizing; eliminating pathogens and keeping the components which facilitie the biosphere's survival and thrival.
