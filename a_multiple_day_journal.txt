@@ -121,3 +121,16 @@ karbytes.publish_patreon_post('https://karbytesforlifeblog.wordpress.com/a_conve
 let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
 
 karbytes.publish_instagram_post('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/moonlight_night_sky_dublin_california_31_july_2023.jpg', x); // karbytes made a public social media post on Instagram dot Com at approximately 12:00AM Pacific Standard Time on 01_AUGUST_2023.
+
+* * *
+
+#include <iostream>
+
+int main()
+{
+	;int thing:thong;
+	std::cout << "test: " << 'thing:thong << "." << \n\n';
+	return 0;
+}
+
+Perhaps Elon Musk changed the Twitter logo from the turquoise silhouette of a small bird in mid chirp to a black barred depiction of the letter X in order to accomodate Muslims who dissapprove of humans drawing animals (because doing so is apparently playing God). Perhaps the logo change is closer to what I consider to be good reasoning: not using a self aware sentient information processing agent as a symbol instead of as its literal instantiation.
