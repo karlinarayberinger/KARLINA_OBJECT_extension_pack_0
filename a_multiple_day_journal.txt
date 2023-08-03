@@ -153,3 +153,7 @@ karbytes.publish_twitter_post('Perhaps there should be mandatory maximum and min
 karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_02_august_2023_part_0.jpg', x);
 
 karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/minds_karbytes_02_august_2023_part_0.jpg', x);
+
+* * *
+
+I have been inclined to pretend that every experience I have is the result of me desiring that particular experience to occur (according to my frame of reference and to my set of memories). I have also been inclined to pretend that not every experience I have is entirely the result of me desiring that particular experience to occur (according to my frame of reference and to my set of memories).
