@@ -157,3 +157,7 @@ karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinge
 * * *
 
 I have been inclined to pretend that every experience I have is the result of me desiring that particular experience to occur (according to my frame of reference and to my set of memories). I have also been inclined to pretend that not every experience I have is entirely the result of me desiring that particular experience to occur (according to my frame of reference and to my set of memories).
+
+* * *
+
+// I noticed that Twitter posts (i.e. tweets) are visible to the public and that the profile page of the Twitter user which published those tweets is not visible to the public. (Only logged in Twitter users can view Twitter profile pages).
