@@ -141,3 +141,15 @@ If you feel that continuing to invest in your own survival is not sufficiently s
 * * *
 
 Perhaps there should be mandatory maximum and minimum population count values. And machines can outsource wombed humans reluctant to give birth to humans by outputting an optimized number of humans at an optimized rate using optimized genomes and stem cells.
+
+* * *
+
+// The string of plain-text characters in the previous section of this note was published as a tweet by karbytes (as depicted by the following screenshot images).
+
+let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
+
+karbytes.publish_twitter_post('Perhaps there should be mandatory maximum and minimum population count values. And machines can outsource wombed humans reluctant to give birth to humans by outputting an optimized number of humans at an optimized rate using optimized genomes and stem cells.', x); // karbytes made a public social media post on Twitter dot Com at approximately 5:20PM Pacific Standard Time on 02_AUGUST_2023.
+
+karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_02_august_2023_part_0.jpg', x);
+
+karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/minds_karbytes_02_august_2023_part_0.jpg', x);
