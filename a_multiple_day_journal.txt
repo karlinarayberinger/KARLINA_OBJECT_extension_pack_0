@@ -1,7 +1,7 @@
 /** 
   * file: a_multiple_day_journal.txt
   * type: plain-text 
-  * date: 02_AUGUST_2023 
+  * date: 03_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN
   */
@@ -171,3 +171,11 @@ karbytes.publish_twitter_post('I have been inclined to pretend that every experi
 karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_02_august_2023_part_1.jpg', x);
 
 karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/minds_karbytes_02_august_2023_part_1.jpg', x);
+
+* * *
+
+X: "karbytes aspires to always minimize the total suffering in karbytes' universe even if information processing agents other than karbytes do not aspire to always minimize the total suffering in its own respective universe."
+
+Y: "In order for carnivorous wild animals such as cougars and coyotes to survive long enough to become sexually mature and possibly sexually reproduce (without interference from more intelligent information processing agents such as humans), those carnivores would have to hunt and eat sentient prey such as turkeys and rabits. Should strict carnivores be euthanized or else kept only in wildlife reserves where those carnivores are fed lab grown meat from stem cells which never become complex enough to develop nervous systems with the capacity to experience pain or self awareness?"
+
+X: "Strictly carnivorous non human animals should be kept only in wildlife reserves where those carnivores are fed lab grown meat from stem cells which never become complex enough to develop nervous systems with the capacity to experience pain or self awareness. Meanwhile, humans should stop hunting or farming animals to be slaughtered and eaten or harvested for useful commodities and, instead either consume plant based food options or else lab grown meat from stem cells which never become complex enough to develop nervous systems with the capacity to experience pain or self awareness."
