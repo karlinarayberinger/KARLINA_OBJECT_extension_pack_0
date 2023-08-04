@@ -179,3 +179,9 @@ X: "karbytes aspires to always minimize the total suffering in karbytes' univers
 Y: "In order for carnivorous wild animals such as cougars and coyotes to survive long enough to become sexually mature and possibly sexually reproduce (without interference from more intelligent information processing agents such as humans), those carnivores would have to hunt and eat sentient prey such as turkeys and rabbits. Should strict carnivores be euthanized or else kept only in wildlife reserves where those carnivores are fed lab grown meat from stem cells which never become complex enough to develop nervous systems with the capacity to experience pain or self awareness?"
 
 X: "Strictly carnivorous non human animals should be kept only in wildlife reserves where those carnivores are fed lab grown meat from stem cells which never become complex enough to develop nervous systems with the capacity to experience pain or self awareness. Meanwhile, humans should stop hunting or farming animals to be slaughtered and eaten or harvested for useful commodities and, instead either consume plant based food options or else lab grown meat from stem cells which never become complex enough to develop nervous systems with the capacity to experience pain or self awareness."
+
+* * *
+
+let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
+
+karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/abstract_ideas_03_august_2023.jpg', x);
