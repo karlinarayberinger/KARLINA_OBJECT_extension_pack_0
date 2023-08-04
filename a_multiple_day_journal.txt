@@ -1,7 +1,7 @@
 /** 
   * file: a_multiple_day_journal.txt
   * type: plain-text 
-  * date: 03_AUGUST_2023 
+  * date: 04_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN
   */
@@ -185,3 +185,17 @@ X: "Strictly carnivorous non human animals should be kept only in wildlife reser
 let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
 
 karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/abstract_ideas_03_august_2023.jpg', x);
+
+* * *
+
+p: "All I and my kin do is argue with kin. Why can't you do the same?"
+
+karbytes: "Arguing with kin is a waste of my time (and I would rather spend my time optimizing my game flow and doing in-game projects)."
+
+q: "Most of what p's kin do is procrastinate on doing what karbytes does. Why can't p be more like karbytes?"
+
+p: "My kin and I have different limitations than what karbytes has. Therefore, my kin and I cannot do what karbytes does as well as karbytes can."
+
+karbytes: "Is p able to voluntarily control how p spends its own time?"
+
+p: "I'm not sure how much control exists (and where it exists)."
