@@ -226,7 +226,7 @@ karbytes.publish_minds_post('https://singularityhub.com/2023/08/03/is-it-really-
 
 S: "Is karbytes a hard determinist or else a compatibilist (when it comes to the topic of free will)?"
 
-T: "I think karbytes said very sternly one time that karbytes is a hard determinist (which means that karbytes does not believe in that free will exists). I have heard karbytes more recently say that karbytes is a compatibilist (and that free will is a measurably finite property of information processing agents within the limiting and energizing context of a universe simulation which is substantiated by a causally interdependent network of multiple information processing objects)."
+T: "I think karbytes said very sternly one time that karbytes is a hard determinist (which means that karbytes does not believe that free will exists). I have heard karbytes more recently say that karbytes is a compatibilist (and that free will is a measurably finite property of information processing agents within the limiting and energizing context of a universe simulation which is substantiated by a causally interdependent network of multiple information processing objects)."
 
 S: "In karbytes' compatibilist worldview, how is free will created and measured?"
 
