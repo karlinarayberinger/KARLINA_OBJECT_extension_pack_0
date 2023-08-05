@@ -224,10 +224,12 @@ karbytes.publish_minds_post('https://singularityhub.com/2023/08/03/is-it-really-
 
 * * *
 
-S: "Is karbytes a hard determinist or else a compatibilist (when it comes to the topic of free will)?"
+At approximately 8:10PM Pacific Standard Time (on 04_AUGUST_2023), karbytes came up with the following ideas (expressed as a dialog between fictional persons named S and T):
 
-T: "I think karbytes said very sternly one time that karbytes is a hard determinist (which means that karbytes does not believe that free will exists). I have heard karbytes more recently say that karbytes is a compatibilist (and that free will is a measurably finite property of information processing agents within the limiting and energizing context of a universe simulation which is substantiated by a causally interdependent network of multiple information processing objects)."
+S: “Is karbytes a hard determinist or else a compatibilist (when it comes to the topic of free will)?”
 
-S: "In karbytes' compatibilist worldview, how is free will created and measured?"
+T: “I think karbytes said very sternly one time that karbytes is a hard determinist (which means that karbytes does not believe that free will exists). I have heard karbytes more recently say that karbytes is a compatibilist (and that free will is a measurably finite property of information processing agents within the limiting and energizing context of a universe simulation which is substantiated by a causally interdependent network of multiple information processing objects).”
 
-T: "I remember karbytes saying that free will was a function of how comprehensive (in terms of data size), accurate (in terms of modeling the encompassing physical universe), and efficient (in terms of decision making algorithm runtime) an information processing agent's mental model of reality is (and such a definition of free will implies that free will is an attribute which only sufficiently intelligent information processing agents exhibit)."
+S: “In karbytes’ compatibilist worldview, how is free will created and measured?”
+
+T: “I remember karbytes saying that free will was a function of how comprehensive (in terms of data size), accurate (in terms of modeling the encompassing physical universe), and efficient (in terms of decision making algorithm runtime) an information processing agent’s mental model of reality is (and such a definition of free will implies that free will is an attribute which only sufficiently intelligent information processing agents exhibit).”
