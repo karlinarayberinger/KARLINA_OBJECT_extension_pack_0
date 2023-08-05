@@ -209,3 +209,15 @@ I remembered pointing my green laser light up at what I assumed was the Internat
 let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
 
 karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/quora_karbytes_iss_laser_visibility_04_august_2023.png', x);
+
+* * *
+
+let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
+
+karbytes.publish_twitter_post('https://singularityhub.com/2023/07/24/the-digital-future-may-rely-on-optical-switches-a-million-times-faster-than-todays-transistors/', x); // karbytes made a public social media post on Twitter dot Com at approximately 5:00PM Pacific Standard Time on 04_AUGUST_2023.
+
+karbytes.publish_twitter_post('https://singularityhub.com/2023/08/03/is-it-really-hotter-now-than-any-time-in-100000-years/', x); // karbytes made a public social media post on Twitter dot Com at approximately 5:00PM Pacific Standard Time on 04_AUGUST_2023.
+
+karbytes.publish_minds_post('https://singularityhub.com/2023/07/24/the-digital-future-may-rely-on-optical-switches-a-million-times-faster-than-todays-transistors/', x); // karbytes made a public social media post on Minds dot Com at approximately 5:00PM Pacific Standard Time on 04_AUGUST_2023.
+
+karbytes.publish_minds_post('https://singularityhub.com/2023/08/03/is-it-really-hotter-now-than-any-time-in-100000-years/', x); // karbytes made a public social media post on Minds dot Com at approximately 5:00PM Pacific Standard Time on 04_AUGUST_2023.
