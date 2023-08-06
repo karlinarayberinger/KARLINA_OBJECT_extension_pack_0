@@ -453,3 +453,9 @@ karbytes.publish_twitter_post('I hypothesize that humans have amassed all the te
 karbytes.publish_minds_post('What I am trying to do is use as precise, objective, impersonal, logical, and important to human survival and thrival verbiage as possible.', x); // karbytes made a public social media post on Minds dot Com at approximately 11:40PM Pacific Standard Time on 05_AUGUST_2023.
 
 karbytes.publish_minds_post('I hypothesize that humans have amassed all the technology and science knowledge they need to provide every human with what I would consider to be a decent standard of living (using the materials which currently exist on Planet Earth).', x); // karbytes made a public social media post on Minds dot Com at approximately 11:40PM Pacific Standard Time on 05_AUGUST_2023.
+
+* * *
+
+let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
+
+karbytes.github_file_upload('https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/abstract_ideas_06_august_2023.jpg', x);
