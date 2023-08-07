@@ -501,3 +501,11 @@ I cannot help but think that it serves me well to pretend that the thought polic
 * * *
 
 I think that it is possible that what appears to a human to be that human's own lifetime is really just a dream (and that whatever is dreaming that dream is an object which has always existed and always will exist (and which can dream up limitlessly many scenarios which are limitlessly varied)).
+
+* * *
+
+let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
+
+karbytes.publish_twitter_post('I think that it is possible that what appears to a human to be that human's own lifetime is really just a dream (and that whatever is dreaming that dream is an object which has always existed and always will exist (and which can dream up limitlessly many scenarios which are limitlessly varied)).', x); // karbytes made a public social media post on Twitter dot Com at approximately 10:00PM Pacific Standard Time on 06_AUGUST_2023.
+
+karbytes.publish_minds_post('I think that it is possible that what appears to a human to be that human's own lifetime is really just a dream (and that whatever is dreaming that dream is an object which has always existed and always will exist (and which can dream up limitlessly many scenarios which are limitlessly varied)).', x); // karbytes made a public social media post on Minds dot Com at approximately 10:00PM Pacific Standard Time on 06_AUGUST_2023.
