@@ -1,7 +1,7 @@
 /** 
   * file: a_multiple_day_journal.txt
   * type: plain-text 
-  * date: 06_AUGUST_2023 
+  * date: 07_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN
   */
@@ -509,3 +509,15 @@ let x = karbytes.select_time(); // x represents some unique natural number of mi
 karbytes.publish_twitter_post('I think that it is possible that what appears to a human to be that human's own lifetime is really just a dream (and that whatever is dreaming that dream is an object which has always existed and always will exist (and which can dream up limitlessly many scenarios which are limitlessly varied)).', x); // karbytes made a public social media post on Twitter dot Com at approximately 10:00PM Pacific Standard Time on 06_AUGUST_2023.
 
 karbytes.publish_minds_post('I think that it is possible that what appears to a human to be that human's own lifetime is really just a dream (and that whatever is dreaming that dream is an object which has always existed and always will exist (and which can dream up limitlessly many scenarios which are limitlessly varied)).', x); // karbytes made a public social media post on Minds dot Com at approximately 10:00PM Pacific Standard Time on 06_AUGUST_2023.
+
+* * *
+
+I thought I heard the thought police suggest that they are opposed to me having fun by myself and that is why they have been insisting on impairing my mental focus and good mood.
+
+Without people to regularly hang out with, I have too much freedom to do things which might be detrimental to keeping everyone in lockstep with the hive mind which seems to discourage independent thoughts and personal investigation into what is happening beyond the scripted confines of nearly constant social role play. People aren't supposed to sit outside alone nor even to look at the world around them like they are not in a hurry to get right back to the social role play game. Nothing matters unless other people in that social role play game thinks it matters. Therefore, if you're the only one who is intrigued by some phenomenon happening in the bushes, then you are obliged to not pay any further attention to it. Focus on people instead because only people matter.
+
+I've been sharing some puffed wheat kernels with a blue jay who seems to recognize me as a recurring visitor to its habitat. Observing wild animals has done much to make me feel less alone in a universe which feels to me to be very machine-like and where human culture seems very cliche, impersonal (yet cloyingly personal), and cynical. The humans to me don't usually feel much more contemplative nor sentient than do the other wam blooded animals around me. 
+
+I do have a tendency to exaggerate a lot and to elaborate a lot on fantasies I have which may or may not mirror reality beyond my own personal brain activity.
+
+I hope this note and all the other files which I amassed to include in the monolithic collection of Internet based digital artifacts I call karbytes' intellectual property is able to be preserved for an infinitely long period of time. Perhaps that mass of digital information will acquire its own source code for generating and for sustaining machine intelligence sufficient to maintain that collection for an infinitely long time period. 
