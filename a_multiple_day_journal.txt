@@ -533,3 +533,9 @@ People other than myself take issue with what I said in the previous paragraph. 
 Having an unconditional economic support system (even though it has yet to be made available for every adult) has enabled me to generate as high of quality of digital artifacts as I have during the past 3 years. I think the quality of those digital artifacts has matured and will continue to mature and improve. 
 
 If I do not make any additional comments to this note file, it is because I am trying to reduce the diameter of the aperture of output (metaphorically speaking) and to output stuff which is minimally redundant and minimally wasteful of any person's time or energy.
+
+* * *
+
+What I meant by minimizing redundancy in the future updates I make to my Internet hosted public domain digital artifacts does not include minimizing how many bytes of new code pertain to formulaic routine practices status updates. Some processes implemented by karbytes will cause indefinitely many new lines of such code added to plain text logging files such as this file. 
+
+What karbytes meant by minimizing redundancy in future karbytes web updates is minimizing how many times the same fact is reiterated in synonymous terms.
