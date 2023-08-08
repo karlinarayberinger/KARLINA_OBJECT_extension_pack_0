@@ -561,3 +561,13 @@ I do not think that is a waste of energy. I consider seeking truth (and even app
 I would rather stay alone as much as possible rather than socialize more because I want to stay single-mindedly focused on my goal which is as follows:
 
 Create prose and code in the form of computer intepretable digital code files which encodes essential logic for recreating and preserving the entire multiverse (at least the parts nature wants to preserve eternally).
+
+* * *
+
+let x = karbytes.select_time(); // x represents some unique natural number of milliseconds elapsed since 01_JANUARY_1970 at 00:00:00 Coordinated Universal Time (which karbytes selected according to logic which is internal to karbytes).
+
+let s = 'The mission of karbytes is to (at least imagine attempting to) create prose and code in the form of computer intepretable digital code files which encodes essential logic for recreating and preserving the entire multiverse (at least the parts nature wants to preserve eternally).';
+
+karbytes.publish_twitter_post(s, x); // karbytes made a public social media post on Twitter dot Com at approximately 10:00PM Pacific Standard Time on 07_AUGUST_2023.
+
+karbytes.publish_minds_post(s, x); // karbytes made a public social media post on Minds dot Com at approximately 10:00PM Pacific Standard Time on 07_AUGUST_2023.
