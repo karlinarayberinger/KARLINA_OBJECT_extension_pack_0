@@ -1,7 +1,7 @@
 /** 
   * file: a_multiple_day_journal.txt
   * type: plain-text 
-  * date: 08_AUGUST_2023 
+  * date: 09_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN
   */
@@ -583,3 +583,23 @@ let s = 'The mission of karbytes is to (at least imagine attempting to) create  
 karbytes.publish_twitter_post(s, x); // karbytes made a public social media post on Twitter dot Com at approximately 11:00AM Pacific Standard Time on 08_AUGUST_2023.
 
 karbytes.publish_minds_post(s, x); // karbytes made a public social media post on Minds dot Com at approximately 11:00AM Pacific Standard Time on 08_AUGUST_2023.
+
+* * *
+
+If you (i.e. some human) are suffering and want to keep that suffering from impeding your progress towards achieving your goals (instead of giving into stress-induced impulses whose consequences are detrimental more so than helpful to your goals), then karbytes advises that you think about how some human other than you is suffering more than you are (even if that other human is imaginary because merely imagining some human other than yourself suffering helps to make your suffering seem easier to tolerate because that is how human brains evolved: to feel a sense of reward at not being the most disadvantaged people in society).
+
+I seem to be in a situation where I am being severely bullied by law enforcement and cilivians mainly because those people are opposed to me being happy because those people believe that I do not meet their qualifications for being able to be as happy as I would be without their deliberate attempts to diminish my happiness). Because many people seem to side with my bullies and because I take pride in hardly needing praise, encouragement, or guidance from other people, I prefer to avoid drawing attention to myself from other people unless it is for the bare-minimum transactions needed to keep myself alive and minimally satisfied. 
+
+Related to the last sentence of the previous paragraph is the belief I have that I am optimizing my goal oriented behavior by (a) avoiding spending time and energy on trying to determine whether or not I am being globally censored and (b) avoiding asking people for money online (because my money is supposed to be coming from the government and or a job). If I am the only person who views my online data the way I want other users of the Internet to be able to experience it, I would presumably never know that is the case (and that being the case or not does not change the fact that the essential function of my (what I presume to be public) websites and (what I presume to be public) file management systems is to preserve at least some of my knowledge in a verbatim retrievable format and in a way which I find aesthetically pleasing and expressive of my creative uniqueness).
+
+The people who bully me seem to be opposed to me achieving all of my goals because, if I did, the world would presumably be too boring for my bullies (because my goals include permanenently solving the infrastructural and cultural problems which cause preventable human suffering (and my bullies seem to be addicted to and specialized in dealing with interpersonal conflict which is animosity filled to the extent that vengeful and possibly criminal actions are taken).
+
+I am afraid that much of human civilization is currently structured around the perpetual reinforcement of otherwise preventable human suffering and a distrust in humans having as much autonomy and well-being as I prefer them to and think they otherwise could have if it were not for the bullies seeming to dictate human society to operate in a hierachal and animosity driven and creativity stifling way. That is why I appear to myself to have effectively given up on being some kind of political activist or saint. I have instead decided to play the role of a character who is neither rich nor poor, asexual, nerdy, generally asocial, and harmlessly egotistical. I would even daresay that my character exudes misanthropy and violent or sadistic tendencies. That way, I can excuse myself to not be a good role model for kids nor a hero to the community. 
+
+My bullies have made it clear to me that the human world does not need me to be happy and that, if a large enough and powerful enough group of them demands that I be tortured and that I stay alive for that purpose, then I will almost certainly be tortured and be forced to stay alive for that purpose. 
+
+Every day I practice being profusely (but not too flamboyantly) grateful for every human who does not intentionally try to harm my progress towards my goals (including the goal of me doing everything I do with as minimal interference from other humans as possible). I generally only talk to people at length if they first start a conversation with me. My bullies have made it hard for me to do much more than keep to myself and not appear to be happier than other people in my midst (but not miserable to an extent which they (or pehaps just their children) would find distracting).
+
+I don't go to family gathering for holidays anymore and have not for over five years. Since then I have also allowed all of my friendships to become almost nonexistent (and almost 100$ web based only). Until human civilization stops acting in ways which I think is seriously detrimental to my goals, I am "on strike" against having close friends and doing anything other than the bare minimum in terms of interacting with humans and operating in accordance with my goals.
+
+I presume that I am currently the only human who has the exact set of goals which I currently have (which is necessarily the case because only my body and not some other person's body seems to occupy the finite region of space and time which it currently does and what my goals are is at least partially determined by my unique space-time coordinates).
