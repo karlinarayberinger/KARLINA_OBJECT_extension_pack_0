@@ -1,3 +1,5 @@
+
+
 /** 
   * file: karbytes_10_august_2023.txt
   * type: plain-text 
@@ -18,4 +20,4 @@ I look forward to revising and refining my personal dialect more and more as I a
 
 * * *
 
-While bicycling yesterday, I remember thinking about how
+While bicycling yesterday, I remember thinking about how one gram of water (in liquid form), occupies approximately exactly one cubic millimeter of space. #metric #water #quantities
