@@ -1,12 +1,12 @@
 /** 
-  * file: karbytes_10_august_2023.txt
+  * file: karbytes_11_august_2023.txt
   * type: plain-text 
-  * date: 10_AUGUST_2023 
+  * date: 11_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN
   */
 
-After taking two cannabis pills and drinking a delicious large hot coffee from the nearby cafe, I started working on updating the largest section of the website named Karbytes For Life Blog dot WordPress dot Com while listening to various sounds through my over-ear headphones such as my SOUND_TRACK_LOOPER application and a video about "finding pockets of reducibility" and trying to computationally model the entire "network" of timelines throughout all of nature. Then I got some ideas which seemed to be an emergent property of all my sensory inputs and of my internal biochemistry and electromagnetism "messages". I imagined that what I often look like (which some people may call "information overload" but what I call "widening the aperture of cognitive and perceptual throughput") is a microphone connected to an applifier which picked up a small squeaking sound and then amplified the loudness of that sound through a recursive process of amplifier noise being picked up by the microphone and that microphone sending that input information to be sent back out into the air as sound waves from those incoming electrical firings which encode sound waves.
+After taking two cannabis pills and drinking a delicious large hot coffee from the nearby cafe, I started working on updating the largest section of the website named Karbytes For Life Blog dot WordPress dot Com while listening to various sounds through my over-ear headphones such as my SOUND_TRACK_LOOPER application and a video about "finding pockets of reducibility" and trying to computationally model the entire "network" of timelines throughout all of nature. Then I got some ideas which seemed to be an emergent property of all my sensory inputs and of my internal biochemistry and electromagnetism "messages". I imagined that what I often look like (which some people may call "information overload" but what I call "widening the aperture of cognitive and perceptual throughput") is a microphone connected to an amplifier which picked up a small squeaking sound and then amplified the loudness of that sound through a recursive process of amplifier noise being picked up by the microphone and that microphone sending that input information to be sent back out into the air as sound waves from those incoming electrical firings which encode sound waves.
 
 When the amplifier noises "get too loud", people might want to turn the power switch of that system in order to reset it (and stop that loud noise which was caused by feedback amplification loop). I have been fighting against my ego getting reset after it "works so hard" to evolve itself into a badass.
 
@@ -18,4 +18,12 @@ I look forward to revising and refining my personal dialect more and more as I a
 
 * * *
 
-While bicycling yesterday, I remember thinking about how one gram of water (in liquid form), occupies approximately exactly one cubic millimeter of space. #metric #water #quantities
+While bicycling two days ago, I remember thinking about how one gram of water (in liquid form), occupies approximately one cubic center of space (and the volume of that cube would be approximately one milliliter). #metric #water #quantities
+
+* * *
+
+"... The mass of one cubic centimetre of water at 3.98 °C (the temperature at which it attains its maximum density) is almost equal to one gram..." 
+
+The quoted text in the previous paragraph was copied from the Wikipedia page at the following Uniform Resource Locator:
+
+https://en.wikipedia.org/wiki/Cubic_centimetre
