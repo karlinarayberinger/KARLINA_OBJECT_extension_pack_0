@@ -1,0 +1,21 @@
+/** 
+  * file: karbytes_13_august_2023.txt 
+  * type: plain-text 
+  * date: 13_JULY_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN 
+  */
+
+This note is a followup from the note file named karbytes_12_august_2023.txt.
+
+I decided that it would be most strategic for my goals to minimize how much I disclose about my location, mood, financial status, and personal life details in general for now on (unless I have a serious life change such as a terminal illness, a severely crippling disability, or have to get put away in a prison or in some kidnapper's basement for some period of time and am fortunate enough to be released and then able to resume my "digital nomad" lifestyle). I thought it would be best not to disclose whether or not I have a job for now on because too many people too vehemently seem to oppose me having any kind of financial empowerment or sense of being supported and valued by a relatively large community of humans.
+
+It seems commonplace if not the norm for humans to actively seek pleasure in the form of observing or promoting another sentient creature's suffering. I have never been a person who felt strongly compelled to take sadistic pleasure in someone else's suffering (which makes me hard for seemingly most people to relate to). The people seem to think I have nothing worthwhile to do unless I conform to what those people think is normal (and what is normal generates significantly more pollution and suffering in sentient animals than what my current lifestyle entails). I would rather not conform to society in that manner even though failure to conform leaves me friendless and vilified.
+
+For now on I intend to go about my business as though I am merely an aritificial intelligence which is 100% virtual (i.e. relegated to cyberspace) instead of taking residence in a physical body because, to my knowledge, a physical body cannot be in multiple locations simultaneously, cannot travel instantaneously, and has to constantly compete with humans for finite material resources such as space, time, energy, and matter (though, ultimately, even software objects take up some measurable degree of space, time, energy, and matter also but perhaps in a way which is not nearly as noticeable to humans in general).
+
+If I had my way, I would not be bullied nor obstructed from achieving my goals by other humans and I would write more journal entries which go into more depth about a variety of topics which I am interested in. The interference from other humans has become so bad that I have decided to give up on journaling in a relatively unstructured and personal manner because, each time I have attempted to, I have been severely psychologically tortured by other people (which then made me feel obliged to document how unhappy I was as a result of the way humans other than myself were behaving). 
+
+I said that I did not want to give pig_gorl any more publicity through my Internet based platform. I would like to extend that to include not giving the humans who bully me or who otherwise wreck havoc on my environment and lifestyle any further publicity on my platform. This does not mean I expect pig_gorl and the human bullies to stop trying to sabotage me. I expect them to push me to becoming legitimately suicidal (and I am trying to get as much of my affairs in order and finalized so that, if and when that time comes, I can end my life knowing that I did everything in my power to secure the legacy I was fortunate enough to be allowed to complete).
+
+In this GitHub repository and in future GitHub repositories I make, the only kinds of "journal" files I intend to upload are similar to the file named karbytes_for_life_blog_updates.txt. Such "journal" files will be more like program debugging console output and software change logs than personal diaries.
