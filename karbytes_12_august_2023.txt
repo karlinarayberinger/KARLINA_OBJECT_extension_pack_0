@@ -29,3 +29,19 @@ I wanted to mention that having a laptop computer, smartphone, and backpack full
 What has not been super convinient about my "digital nomad" lifestyle is the fact that I pay for a metered Internet connection instead of an unmetered one (which means I pay for every byte I use instead of pay a fixed rate per fixed time period for any amount of data I use during that time period). Without a non-metered Internet connection, it is hard to get data-intensive work done. For now, I do generally stay close to places which have 24 hour Wi-Fi access in order to do relatively brief and infrequent data-intensive operations.
 
 After I am done getting the section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com up to date (i.e. populated with directory web pages to every relevant GitHub repository which currently exists) (and I expect that update to be complete no later than 01_OCTOBER_2023), I may or may not start hanging out in places with Wi-Fi access by default instead of what I do now (which is mostly hanging out in remote places without Wi-Fi access and while using only my personal metered Internet connection from the AT&T phone service I pay for which is $30/monthly for baseline servicdes and $20 per every additional 3 gigabytes of mobile data I purchase).
+
+* * *
+
+I decided to add another blurb to this note.
+
+A while ago I popped a THC pill and read "random" Wikipedia articles about the psychological phenomenon of dissociation and then I somehow clicked on the Wikipedia article about what mysticism is supposedly centrally about: becoming cognizant of (logically and psychosomatically) or literally equivalent to God or the Absolute (which is presumed to be an entity which encompasses all existence and is infinite in its scope).
+
+https://en.wikipedia.org/wiki/Mysticism
+
+From the article: '...Mysticism is popularly known as becoming one with God or the Absolute,[1][2] but may refer to any kind of ecstasy or altered state of consciousness which is given a religious or spiritual meaning.[web 1] It may also refer to the attainment of insight in ultimate or hidden truths, and to human transformation supported by various practices and experiences...'
+
+I do not at this time perceive myself to be one with The Absolute (and I think that is because I prefer to be compartmentalized into my own relatively finite and tiny allocation of consciousness known as karbytes). Perhaps someday I will recognize myself literally as being synonymous with The Absolute. I hope that I will continue to always choose to keep karbytes immortally instantiated and able to continue doing scientific research and creating intellectual property (especially throguh the medium of digital artifacts).
+
+I liked an image of a painting which I found in that Wikipedia article about Mysticism and uploaded it to this GitHub repository at the following Uniform Resource Locator:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/josep_benlliure_Gil43.jpeg
