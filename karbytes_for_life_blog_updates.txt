@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 15_AUGUST_2023 
+  * date: 16_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
@@ -497,3 +497,9 @@ On 15_AUGUST_2023 at approximately 7:22PM Pacific Standard Time, karbytes create
 On 15_AUGUST_2023 at approximately 7:52PM Pacific Standard Time, karbytes created (and apparently finalized) the web page named raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_7 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
 On 15_AUGUST_2023 at approximately 8:20PM Pacific Standard Time, karbytes created (and apparently finalized) the web page named raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_8 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+On 16_AUGUST_2023 at approximately 11:26AM Pacific Standard Time, karbytes created (and apparently finalized) the web page named raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_0 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+On 16_AUGUST_2023 at approximately 11:26AM Pacific Standard Time, karbytes updated the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+On 16_AUGUST_2023 at approximately 11:26AM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
