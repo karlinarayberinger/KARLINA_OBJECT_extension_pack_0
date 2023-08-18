@@ -536,7 +536,7 @@ On 17_AUGUST_2023 at approximately 2:50AM Pacific Standard Time, karbytes create
 
 On 17_AUGUST_2023 at approximately 3:00AM Pacific Standard Time, karbytes created (and apparently finalized) the web page named raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_22 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
-On 16_AUGUST_2023 at approximately 3:10PM Pacific Standard Time, karbytes created (and apparently finalized) the (unlisted) web page named karbytes_17_august_2023 to the website named Karbytes For Life Blog dot WordPress dot Com (and karbytes published a link to that web page on its Twitter, Minds, LinkedIn, and Patreon pages). 
+On 16_AUGUST_2023 at approximately 3:10PM Pacific Standard Time, karbytes created (and apparently finalized) the (unlisted) web page named karbytes_17_august_2023 to the website named Karbytes For Life Blog dot WordPress dot Com (and karbytes published a link to that web page on its Twitter, Minds, LinkedIn, and Patreon pages). The source code for that web page has been added to this GitHub repository and is named unlisted_web_page_karbytes_17_august_2023.html.
 
 On 17_AUGUST_2023 at approximately 3:10PM Pacific Standard Time, karbytes updated the web page named raw_github_files_directory_KARLINA_OBJECT_extension_pack_0 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
 
