@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 18_AUGUST_2023 
+  * date: 19_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
@@ -572,6 +572,8 @@ On 18_AUGUST_2023 at approximately 7:05PM Pacific Standard Time, karbytes update
 
 On 18_AUGUST_2023 at approximately 7:05PM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
 
-On 18_AUGUST_2023 at approximately 9:16PM Pacific Standard Time, karbytes updated the web page named raw_github_files_directory_KARLINA_OBJECT_extension_pack_0 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+On 19_AUGUST_2023 at approximately 5:15PM Pacific Standard Time, karbytes created (and apparently finalized) the (unlisted) web page named karbytes_19_august_2023 to the website named Karbytes For Life Blog dot WordPress dot Com (and karbytes published a link to that web page on its Twitter, Minds, LinkedIn, and Patreon pages). The source code for that web page has been added to this GitHub repository and is named unlisted_web_page_karbytes_19_august_2023.html.
 
-On 18_AUGUST_2023 at approximately 9:16PM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
+On 19_AUGUST_2023 at approximately 5:15PM Pacific Standard Time, karbytes updated the web page named raw_github_files_directory_KARLINA_OBJECT_extension_pack_0 of the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+On 19_AUGUST_2023 at approximately 5:15PM Pacific Standard Time, karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
