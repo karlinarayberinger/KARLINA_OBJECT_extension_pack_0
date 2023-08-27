@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_12_august_2023.txt 
   * type: plain-text 
-  * date: 12_JULY_2023 
+  * date: 12_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
