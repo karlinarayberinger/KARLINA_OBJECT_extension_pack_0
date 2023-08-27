@@ -1,0 +1,39 @@
+/** 
+  * file: karbytes_26_august_2023.txt 
+  * type: plain-text 
+  * date: 26_AUGUST_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN 
+  */
+
+The following Minds, Twitter, LinkedIn, and Patreon posts were removed by karbytes at approximately 8:44PM on 26_AUGUST_2023:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_19_august_2023/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_16_august_2023/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_11_august_2023/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_534/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_530/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_529/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_528/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_514/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_502/
+
+https://karbytesforlifeblog.wordpress.com/A_CONVERSATION_BETWEEN_V_AND_W/
+
+The following web page is useful for determining whether or not a web page such as Twitter is offline rather than a client-side connection error:
+
+https://www.isitdownrightnow.com/
+
+Tonight shortly after I deleted the aforemention social media posts, Twitter apparently went down globally and not just from my end.
+
+A screenshot image of the "Is It Down Right Now?" website use case by karbytes about the aforementioned Twitter "denial of service attack" (and I mean that non seriously because I have sufficient empirical evidence to support to the claim that my Twitter access is not being denied to me for personal reasons such as getting my account hacked or my account getting suspended for content related disputes):
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/blob/main/isitdownrightnow_website_status_checker_twitter_26_august_2023.png
