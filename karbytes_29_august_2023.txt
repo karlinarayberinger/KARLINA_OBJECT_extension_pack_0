@@ -16,4 +16,4 @@ When the website is in "(a) mode", each web page (whose domain is identical to t
 
 When the website is in "(b) mode", each web page (whose domain is identical to the Uniform Resource Locator of the home page of the website named Karbytes For Life Blog dot WordPress dot Com) will feature a MENU button in its upper-right corner which, when clicked on, expands to display every one of such web pages in alphanumerical order.
 
-"(a) mode" : "(b) mode" :: "database update or maintainance mode (I'm alive)" : "database long term preservation mode (I'm dead)".
+"(b) mode" : "(a) mode" :: "database update or maintainance mode (I'm alive)" : "database long term preservation mode (I'm dead)".
