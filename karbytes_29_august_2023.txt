@@ -14,6 +14,12 @@ I have decided to implement a new practice of
 
 When the website is in "(a) mode", each web page (whose domain is identical to the Uniform Resource Locator of the home page of the website named Karbytes For Life Blog dot WordPress dot Com) will feature a MENU button in its upper-right corner which, when clicked on, expands to display only two outgoing hyperlink MENU options: the home page of the website named Karlina Object dot WordPress dot Com and the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
 
+* * *
+
+Never mind. I remembered that, when saving a web page of either one of my two websites to the WayBack Machine with the "save outlinks" feature on, at least some of the links (all if the list is short enough) links which are listed in the MENU options list will also be saved (and that might prevent web page hyperlinks which are displayed on the main web page being saved from getting saved as frequently as possible).
+
+I do not plan to die, but I also mentally prepare for the hypothetical cases in which I do die. I prefer to operate with the belief that I am immortal, cannot terminate my immortality, and that probabilities are deep confirmation bias.
+
 When the website is in "(b) mode", each web page (whose domain is identical to the Uniform Resource Locator of the home page of the website named Karbytes For Life Blog dot WordPress dot Com) will feature a MENU button in its upper-right corner which, when clicked on, expands to display every one of such web pages in alphanumerical order.
 
 "(b) mode" : "(a) mode" :: "database update or maintainance mode (I'm alive)" : "database long term preservation mode (I'm dead)".
