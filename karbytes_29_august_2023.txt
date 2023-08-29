@@ -1,7 +1,19 @@
 /** 
-  * file: karbytes_28_july_2023.txt 
+  * file: karbytes_29_august_2023.txt 
   * type: plain-text 
-  * date: 28_JULY_2023 
+  * date: 29_AUGUST_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN
   */
+
+I have decided to implement a new practice of 
+
+(a) turning the MENU button's "display all web pages on this website" feature ON such that, from any web page within that website, clicking the MENU button in the upper-right corner of the top of that web page will cause a drop-down menu to expand to display a list of all web pages which are published under that website's domain (i.e. "https://karbytesforlifeblog.wordpress.com/") in alphabetical and ascending numerical order when each of the web pages in my website have been backed up "sufficiently many times" (according to karbytes) AND while I am not in the process of batch backing up web pages on that website and 
+
+(b) turning off that MENU button feature such that only the home page of the websited named Karlina Object dot WordPress dot Com (i.e. "https://karlinaobject.wordpress.com") and the home page of the website named Karbytes For Life Blog dot WordPress dot Com (i.e. "https://karbytesforlifeblog.wordpress.com") are displayed as MENU options for each web page of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+When the website is in "(a) mode", each web page (whose domain is identical to the Uniform Resource Locator of the home page of the website named Karbytes For Life Blog dot WordPress dot Com) will feature a MENU button in its upper-right corner which, when clicked on, expands to display only two outgoing hyperlink MENU options: the home page of the website named Karlina Object dot WordPress dot Com and the home page of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+When the website is in "(b) mode", each web page (whose domain is identical to the Uniform Resource Locator of the home page of the website named Karbytes For Life Blog dot WordPress dot Com) will feature a MENU button in its upper-right corner which, when clicked on, expands to display every one of such web pages in alphanumerical order.
+
+"(a) mode" : "(b) mode" :: "database update or maintainance mode (I'm alive)" : "database long term preservation mode (I'm dead)".
