@@ -6,17 +6,23 @@
   * license: PUBLIC_DOMAIN 
   */
 
+Items to purchase and have sent to a public local Amazon locker:
+
+* * * 
+
+item_0_descriptor: "1000 Years Archival Hitachi/LG Digital Storage Blank M-Disc DVD+R | 4.7GB | 3 Pack Jewel Case"
+
 item_0_address: "https://www.amazon.com/Archival-Hitachi-Digital-Storage-M-Disc/dp/B09392TLP1/"
 
 item_0_price: "~$25"
 
 * * * 
 
-item_0_descriptor: "LG GP65NB60 8X USB 2.0 Super Multi Ultra Slim Portable DVD Writer Drive +/-RW External Drive with M-DISC Support - Black"
+item_1_descriptor: "LG GP65NB60 8X USB 2.0 Super Multi Ultra Slim Portable DVD Writer Drive +/-RW External Drive with M-DISC Support - Black"
 
-item_0_address: "https://www.amazon.com/LG-Electronics-Portable-External-GP65NB60/dp/B00ODDE33U/"
+item_1_address: "https://www.amazon.com/LG-Electronics-Portable-External-GP65NB60/dp/B00ODDE33U/"
 
-item_0_price: "~$27"
+item_1_price: "~$27"
 
 * * *
 
@@ -27,3 +33,4 @@ I believe that the above items should be sufficient for creating (relatively) lo
 * * *
 
 I plan on keeping those discs (after I burn all of my website content (before a specific date) onto those discs) inside of some kind of protective case which is well-padded inside of some other protective case and then keep that outer protective case (which is made of metal) in my room (at wherever my legal residence address is) or in a small public storage unit rented out exclusively for my personal use or inside of my backpack as a "travel companion".
+
