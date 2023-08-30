@@ -1,1 +1,35 @@
- LG GP65NB60 8X USB 2.0 Super Multi Ultra Slim Portable DVD Writer Drive +/-RW External Drive with M-DISC Support - Black 
+Items to purchase and have sent to a public local Amazon locker:
+
+* * * 
+
+item_0_descriptor: "1000 Years Archival Hitachi/LG Digital Storage Blank M-Disc DVD+R | 4.7GB | 3 Pack Jewel Case"
+
+/** 
+  * file: karbytes_30_august_2023.txt 
+  * type: plain-text 
+  * date: 30_AUGUST_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN 
+  */
+
+item_0_address: "https://www.amazon.com/Archival-Hitachi-Digital-Storage-M-Disc/dp/B09392TLP1/"
+
+item_0_price: "~$25"
+
+* * * 
+
+item_0_descriptor: "LG GP65NB60 8X USB 2.0 Super Multi Ultra Slim Portable DVD Writer Drive +/-RW External Drive with M-DISC Support - Black"
+
+item_0_address: "https://www.amazon.com/LG-Electronics-Portable-External-GP65NB60/dp/B00ODDE33U/"
+
+item_0_price: "~$27"
+
+* * *
+
+I believe that the above items should be sufficient for creating (relatively) long-term archival-quality solid-state non-volatile physical copies of all the data which comprises the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com (in optical disc format (as sequences of binary digits physically represented as contrasting light reflectivities at various "points" along the surface of the disc (and an electronic computer reading that disc uses a that computer's built-in light sensor to classify the incoming light reflecting by the computer's built-in laser beaming onto a particular "point" of the surface of the disc)).
+
+#holographic #information #data_compression #archival
+
+* * *
+
+I plan on keeping those discs (after I burn all of my website content (before a specific date) onto those discs) inside of some kind of protective case which is well-padded inside of some other protective case and then keep that outer protective case (which is made of metal) in my room (at wherever my legal residence address is) or in a small public storage unit rented out exclusively for my personal use or inside of my backpack as a "travel companion"..
