@@ -1,9 +1,3 @@
-Items to purchase and have sent to a public local Amazon locker:
-
-* * * 
-
-item_0_descriptor: "1000 Years Archival Hitachi/LG Digital Storage Blank M-Disc DVD+R | 4.7GB | 3 Pack Jewel Case"
-
 /** 
   * file: karbytes_30_august_2023.txt 
   * type: plain-text 
