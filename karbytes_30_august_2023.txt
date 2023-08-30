@@ -30,7 +30,7 @@ item_1_image: "https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJE
 
 * * *
 
-I believe that the above items should be sufficient for creating (relatively) long-term archival-quality solid-state non-volatile physical copies of all the data which comprises the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com (in optical disc format (as sequences of binary digits physically represented as contrasting light reflectivities at various "points" along the surface of the disc (and an electronic computer reading that disc uses a that computer's built-in light sensor to classify the incoming light reflecting by the computer's built-in laser beaming onto a particular "point" of the surface of the disc)).
+I believe that the above items should be sufficient for creating (relatively) long-term archival-quality solid-state non-volatile physical copies of all the data which comprises the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com (in optical disc format (as sequences of binary digits physically represented as contrasting light reflectivities at various "points" along the surface of the disc (and an electronic computer reading that disc uses the computer's built-in light sensor to classify the incoming light reflecting by the computer's built-in laser beaming onto a particular "point" of the surface of the disc)).
 
 #holographic #information #data_compression #archival
 
